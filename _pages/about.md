@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) of [TU Berlin]([https://tu-berlin.de) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
+Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) of [TU Berlin](https://tu-berlin.de) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
 
 My research interests lie in the intersection of IoT, sensor-cloud query processing, and in-network data management. I investigate ways to further scale data management systems even when they operate in last-mile networks.
 
