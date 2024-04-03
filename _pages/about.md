@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) (DIMA) of [TU Berlin](https://tu-berlin.de) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
 
 profile:
   align: right
@@ -17,12 +17,8 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) of [TU Berlin](https://tu-berlin.de) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
+My research interests lie in the intersection of IoT, sensor-cloud query processing, and in-network data management. I investigate ways to further scale data management systems even when they operate in last-mile networks. I collaborate with [Varun Pandey](https://www.bifold.berlin/people/dr-varun-pandey.html) and [Steffen Zeuch](https://www.user.tu-berlin.de/zeuchste/). 
 
-My research interests lie in the intersection of IoT, sensor-cloud query processing, and in-network data management. I investigate ways to further scale data management systems even when they operate in last-mile networks.
+Before embarking on my PhD journey, I had industry experience on working with data management and data-related systems in [multiple positions](https://www.linkedin.com/in/demetrios-giouroukis/). 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my MSc in Aristotle University of Thessaloniki under the supervision of [Dimitrios Vrakas](https://intelligence.csd.auth.gr/people/vrakas/) where I had the pleasure to work with [Moysis Symeonides](https://www.linkedin.com/in/moysis-symeonides-13bb02b2/). I did my BSc in [University of Peloponnese](https://www.uop.gr/en/) under the dual supervision of [Christos Tryfonopoulos](http://users.uop.gr/~trifon/) and [Nikos Platis](https://users.uop.gr/~nplatis/en/).
