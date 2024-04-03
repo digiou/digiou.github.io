@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>
-      <a href="your-github-link" target="https://github.com/digiou" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="your-linkedin-link" target="https://www.linkedin.com/in/demetrios-giouroukis/" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://github.com/digiou" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/demetrios-giouroukis/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
       <a href="mailto:dimitrios.giouroukis@tu-berlin.de" title="Email"><i class="fas fa-envelope"></i></a>
     </p>
 
