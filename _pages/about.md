@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) (DIMA) of [TU Berlin](https://tu-berlin.de) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
+subtitle: Research associate at the [Database Systems and Information Management Group](https://www.tu.berlin/dima) (DIMA) of [TU Berlin](https://www.tu.berlin) led by [Volker Markl](https://www.dima.tu-berlin.de/menue/mitarbeiter/volker_markl).
 
 profile:
   align: right
