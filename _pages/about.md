@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>
+      <a href="your-github-link" target="https://github.com/digiou" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="your-linkedin-link" target="https://www.linkedin.com/in/demetrios-giouroukis/" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+      <a href="mailto:dimitrios.giouroukis@tu-berlin.de" title="Email"><i class="fas fa-envelope"></i></a>
+    </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
