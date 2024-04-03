@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>
-      <a href="https://github.com/digiou" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://www.linkedin.com/in/demetrios-giouroukis/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-      <a href="mailto:dimitrios.giouroukis@tu-berlin.de" title="Email"><i class="fas fa-envelope"></i></a>
+      <a href="https://github.com/digiou" target="_blank" title="GitHub"><i class="fab fa-github" style="font-size: 24px;"></i></a>
+      <a href="https://www.linkedin.com/in/demetrios-giouroukis/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in" style="font-size: 24px;"></i></a>
+      <a href="mailto:dimitrios.giouroukis@tu-berlin.de" title="Email"><i class="fas fa-envelope" style="font-size: 24px;"></i></a>
     </p>
 
 news: false # includes a list of news items
